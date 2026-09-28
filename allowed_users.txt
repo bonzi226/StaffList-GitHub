@@ -17,3 +17,5 @@ whatamidoinghere
 Xatels
 Xull
 stormiee
+Player2
+Player1
